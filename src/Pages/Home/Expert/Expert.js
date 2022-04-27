@@ -12,7 +12,7 @@ const Expert = ({ expert }) => {
               I have hand picked these photograph. These are very
               rare photos of {name}.You can Frame this photos go Ahead click the button below. I hope you are not going to be disappointed.
             </p>
-            <a href="#" className="btn btn-primary">
+            <a href="#" className="btn btn-success">
               Take me to {name} album
             </a>
           </div>
