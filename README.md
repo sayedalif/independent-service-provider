@@ -24,4 +24,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - firebase
 - react router
 
-#Live Web Site [http://localhost:3000] (https://support.west-wind.com)
+[Live Web Site](https://support.west-wind.com)
