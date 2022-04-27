@@ -12,6 +12,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Website features
+
 - header
 - dynamic footer
 - dynamic login
@@ -19,9 +20,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - responsive
 
 ## List of technology
+
 - bootstrap
 - react toast
 - firebase
 - react router
 
-[Live Web Site](https://support.west-wind.com)
+[Live Web Site](https://wild-life-photography-52740.web.app/)
