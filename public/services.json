@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Leopard photos",
+    "price": "300",
+    "description": "I have awesome photos of leopards and i can do custom leopard photos for you",
+    "img": "https://images.unsplash.com/photo-1456926631375-92c8ce872def?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Hamster photos",
+    "price": "100",
+    "description": "I have awesome photos of Hamster and i can do custom Hamster photos for you just email me about your requirements",
+    "img": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Arctic Fox photos",
+    "price": "150",
+    "description": "I have awesome photos of Arctic Fox and i can do custom Arctic Fox photos for you just email me about your requirements",
+    "img": "https://images.unsplash.com/photo-1470093851219-69951fcbb533?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Raccoon photos",
+    "price": "180",
+    "description": "I have awesome photos of Raccoon and i can do custom Raccoon photos for you just email me about your requirements",
+    "img": "https://images.unsplash.com/photo-1497752531616-c3afd9760a11?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Polar Bear photos",
+    "price": "100",
+    "description": "I have awesome photos of Polar Bear and i can do custom Polar Bear photos for you just email me about your requirements",
+    "img": "https://images.unsplash.com/photo-1589656966895-2f33e7653819?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Squirrel photos",
+    "price": "300",
+    "description": "I have awesome photos of Squirrel and i can do custom Squirrel photos for you just email me about your requirements",
+    "img": "https://images.unsplash.com/photo-1507666405895-422eee7d517f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  }
+]
